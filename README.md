@@ -1,30 +1,29 @@
 # NSC Inc. 🛡️🗡️
 
-Olá! Somos a NSC Inc., uma empresa apaixonada por tecnologia e inovação, focada no desenvolvimento de projetos sustentáveis e inovadores. Nossa missão é criar DApps (aplicativos descentralizados) cada vez mais leves e poderosos, explorando as fronteiras da tecnologia e da criatividade.
+Hello! We are NSC Inc., a technology-driven company passionate about innovation, focused on developing sustainable and groundbreaking projects. Our mission is to create increasingly lightweight and powerful DApps (decentralized applications), pushing the boundaries of technology and creativity.
 
-## Sobre Nós 🧙‍♂️
+## About Us 🧙‍♂️
+Lucas Januário, CEO of NSC Inc., is a visionary leader at the forefront of blockchain technology. With over 6 years of experience in IT and a background in computer science, he specializes in developing highly scalable DApp engines to address various contemporary challenges. Born in 1999, Januário's passion for technology led him to found RubyX, a groundbreaking programming language inspired by PowerShell. As a person with a disability (PCD), he advocates for inclusivity and equal opportunities in the tech industry. Januário's innovative approach and commitment to sustainability position him as a driving force in shaping the future of blockchain technology.
 
-Na NSC Inc., mergulhamos de cabeça no mundo geek para desenvolver projetos incríveis. Desde aplicativos inspirados em filmes e séries até jogos eletrônicos, estamos constantemente explorando novas ideias e soluções para criar experiências únicas para nossos usuários.
+We aim to make our mark on the world, not only by creating technology but also by promoting a culture of innovation and sustainability. Join us on this exciting journey!
 
-Queremos deixar nossa marca no mundo, não apenas criando tecnologia, mas também promovendo uma cultura de inovação e sustentabilidade. Junte-se a nós nessa jornada emocionante!
+## Our Projects !
 
-## Nossos Projetos !
+- **GeekifyApp**: Turn your routine into an epic adventure with our app full of geek references.
+- **DungeonMaster**: Create your own RPG adventures with our epic plot generator.
+- **ArcadeMania**: Relive the nostalgia of classic games with our collection of reimagined games.
 
-- **GeekifyApp**: Transforme sua rotina em uma aventura épica com nosso aplicativo cheio de referências geek.
-- **DungeonMaster**: Crie suas próprias aventuras de RPG com nosso gerador de enredos épicos.
-- **ArcadeMania**: Reviva a nostalgia dos jogos clássicos com nossa coleção de jogos reimaginados.
+## Contribute 🤝
 
-## Contribua 🤝
+If you're a geek enthusiast and would like to contribute to our projects, feel free to fork this repository, make your changes, and send a pull request. We're always open to new ideas and collaborations!
 
-Se você é um entusiasta geek e gostaria de contribuir com nossos projetos, fique à vontade para fazer um fork deste repositório, fazer suas alterações e enviar uma pull request. Estamos sempre abertos a novas ideias e colaborações!
+## Contact 📞
 
-## Contato 📞
-
-Conecte-se conosco:
+Connect with us:
 
 - **LinkedIn**: [Lucas Januário](https://www.linkedin.com/in/lucasjanuariorbx/)
-- **Site**: [NSC Inc.](https://medium.com/@NSC.INC)
+- **Website**: [NSC Inc.](https://medium.com/@NSC.INC)
 
-Estamos ansiosos para ouvir de você e juntos explorarmos novos horizontes no mundo geek!
+We look forward to hearing from you and exploring new horizons in the geek world together!
 
-Que a força esteja com você! 🌟
+May the force be with you! 🌟
