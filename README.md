@@ -7,7 +7,9 @@ I'm Lucas Januário, CEO of NSC Inc., a visionary leader at the forefront of blo
 
 I aim to make our mark on the world, not only by creating technology but also by promoting a culture of innovation and sustainability. Join me on this exciting journey!
 
-## Our Projects !developer a blockchain projects 
+## Our Project
+<p>
+  !developer a blockchain projects 
 
 ## Contribute 🤝
 
