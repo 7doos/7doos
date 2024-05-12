@@ -7,15 +7,11 @@ I'm Lucas Januário, CEO of NSC Inc., a visionary leader at the forefront of blo
 
 I aim to make our mark on the world, not only by creating technology but also by promoting a culture of innovation and sustainability. Join me on this exciting journey!
 
-## Our Projects !
-
-- **GeekifyApp**: Turn your routine into an epic adventure with our app full of geek references.
-- **DungeonMaster**: Create your own RPG adventures with our epic plot generator.
-- **ArcadeMania**: Relive the nostalgia of classic games with our collection of reimagined games.
+## Our Projects !developer a blockchain projects 
 
 ## Contribute 🤝
 
-If you're a geek enthusiast and would like to contribute to our projects, feel free to fork this repository, make your changes, and send a pull request. I'm always open to new ideas and collaborations!
+
 
 ## Contact 📞
 
