@@ -1,4 +1,4 @@
-# NSC Inc. 🛡️🗡️
+# FOUNDER NSC Inc. 🛡️🗡️
 
 Hello! I'm NSC Inc., a technology-driven company passionate about innovation, focused on developing sustainable and groundbreaking projects. Our mission is to create increasingly lightweight and powerful DApps (decentralized applications), pushing the boundaries of technology and creativity.
 
